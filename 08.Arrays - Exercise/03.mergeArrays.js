@@ -1,18 +1,14 @@
-function solve(arrOne, arrTwo) {
-    let newArr = [];
-
-    for (let i = 0; i < arrOne.length; i++) {
-        if (i % 2 === 0) {
-            let arrOneNum = Number(arrOne[i]);
-            let arrTwoNum = Number(arrTwo[i]);
-            let result = arrOneNum + arrTwoNum;
-            newArr.push(result);
-        } else {
-            let arrOneNum = arrOne[i];
-            let arrTwoNum = arrTwo[i];
-            let result = arrOneNum + arrTwoNum;
-            newArr.push(result);
+function solve(arr, num) {
+    for (let i = 0; i < arr.length; i++) {
+        for (let j = i + 1; j < arr.length; j++) {
+            if (arr[i] + arr[j] === num) {
+                console.log(`${arr[i]} ${arr[j]}`)
+            }
         }
     }
-    console.log(newArr.join(' - '));
 }
+
+solve([1, 7, 6, 2, 19, 23],
+    8
+)
+    ;

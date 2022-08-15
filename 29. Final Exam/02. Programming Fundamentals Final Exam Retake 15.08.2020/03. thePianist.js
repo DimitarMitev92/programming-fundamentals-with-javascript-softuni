@@ -50,4 +50,4 @@ function thePianist(array) {
             console.log(`${piece} -> Composer: ${composer}, Key: ${key}`);
         }
     }
-}
+} w

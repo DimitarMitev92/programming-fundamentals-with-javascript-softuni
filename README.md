@@ -113,35 +113,35 @@
 
 ## Умения
 
-- Боравене със стандартната функционалност на програмния език
-- Изграждане на прости уеб страници с HTML и CSS
-- Разбиране на взаимовръзката между различни IT концепции
-- Анализ на сложни проблеми и редуциране до компютърно-изпълними стъпки
-- Работа с линейни структури от данни
-- Основи на уеб разработката
+- Боравене със стандартната функционалност на програмния език;
+- Изграждане на прости уеб страници с HTML и CSS;
+- Разбиране на взаимовръзката между различни IT концепции;
+- Анализ на сложни проблеми и редуциране до компютърно-изпълними стъпки;
+- Работа с линейни структури от данни;
+- Основи на уеб разработката;
 
 ## Теми
 
-- Basic Syntax, Conditional Statements and Loops
-- Basic HTML
-- Data Types and Variables
-- Basic CSS
-- Arrays
-- HTTP Basics
-- Methods/ Functions
-- Problem Solving
-- Lists / Arrays Advanced
-- Bitwise Operations
-- Objects and Classes
-- Intro to Computer Science
-- Associative Arrays
-- Database Basics
-- Text Processing
-- Git and GitHub
-- Regular Expressions
-- QA Introduction
-- Unit Testing
-- Basic Web Project
+- Basic Syntax, Conditional Statements and Loops;
+- Basic HTML;
+- Data Types and Variables;
+- Basic CSS;
+- Arrays;
+- HTTP Basics;
+- Methods/ Functions;
+- Problem Solving;
+- Lists / Arrays Advanced;
+- Bitwise Operations;
+- Objects and Classes;
+- Intro to Computer Science;
+- Associative Arrays;
+- Database Basics;
+- Text Processing;
+- Git and GitHub;
+- Regular Expressions;
+- QA Introduction;
+- Unit Testing;
+- Basic Web Project;
 
 ## Полезни линкове
 
@@ -149,8 +149,6 @@
 <a href="https://softuni.bg">`https://softuni.bg`</a>
 - SoftUni Judge 
 <a href="https://judge.softuni.bg">`https://judge.softuni.bg`</a>
-- Kinvey 
-<a href="https://console.kinvey.com/apps">`https://console.kinvey.com/apps`</a>
 - Postman 
 <a href="https://www.getpostman-beta.com">`https://www.getpostman-beta.com`</a>
 - Handlebars 

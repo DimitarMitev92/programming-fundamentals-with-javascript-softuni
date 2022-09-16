@@ -101,26 +101,26 @@
 
 ---
 
-## За курса
+## For the course
 
-Курсът **Programming Fundamentals** разширява натрупаните до момента начални умения за писане на програмен код от курса "**Programming Basics**" и запознава с базови техники и инструменти, които надграждат писането на прости програмни конструкции.
+The **Programming Fundamentals** course expands the initial coding skills gained so far from the "**Programming Basics**" course and introduces basic techniques and tools that build upon the writing of simple programming constructs.
 
-Наред с техниките за програмиране, курсът развива **алгоритмично мислене** и изгражда **умения за решаване на проблеми** чрез работа върху стотици **практически упражнения**. Всички задачи за упражнения и домашни се оценяват в **реално време** с автоматизираната SoftUni Online Judge система. Методиката на обучение е изключително **практически насочена**. Предоставеният материал включва **концептуална теория** с многобройни примери и голямо **количество задачи с нарастваща трудност**, които се надграждат една друга, като към тях са приложени подробни указания. Практическата работа в клас, с активната помощ на преподаватели и асистенти (или вкъщи за онлайн студентите), представлява над **70% от дейността в курса**.
+Along with programming techniques, the course develops **algorithmic thinking** and builds **problem-solving skills** by working through hundreds of **practical exercises**. All practice and homework assignments are graded in **real time** with the automated SoftUni Online Judge system. The teaching methodology is extremely **practically oriented**. The material provided includes **conceptual theory** with numerous examples and a large **number of problems of increasing difficulty** that build on each other with detailed instructions attached. Practical work in class, with the active help of teachers and teaching assistants (or at home for online students), represents over **70% of the course activity**.
 
-Голяма част от практическите упражнения в курса засягат работа с **линейни структури от данни** и **текстообработка**. Ще бъдат засегнати и концепции, които целят да въведат курсистите в **основните единици на обектно-ориентираното програмиране**. Курсистите ще добият представа за **цялата програма на обучение**, която им предстои до получаването на **диплома за софтуерен инженер**. В курса има **два изпита** върху изучавания материал, като първият цели да тества уменията за работа с основни структури от данни, а финалният да тества знанията, които се отнасят към малко по-сложните концепции – асоциативни масиви и текстообработка, които се изучават след средата на курса.
+Much of the practical exercises in the course involve working with **linear data structures** and **word processing**. Concepts that aim to introduce students to the **core units of object-oriented programming** will also be touched upon. Students will get an idea of ​​the **entire program of study** that lies ahead of them until obtaining a **software engineer diploma**. In the course there are **two exams** on the material studied, the first one aims to test the skills of working with basic data structures and the final one to test the knowledge that relates to the slightly more complex concepts - associative arrays and text processing, which are study after the middle of the course.
 
-Оценката на студентите се сформира чрез междинен изпит и финален практически изпит по програмиране.
+Student evaluation is formed through a midterm exam and a final practical programming exam.
 
-## Умения
+## Skills
 
-- Боравене със стандартната функционалност на програмния език
-- Изграждане на прости уеб страници с HTML и CSS
-- Разбиране на взаимовръзката между различни IT концепции
-- Анализ на сложни проблеми и редуциране до компютърно-изпълними стъпки
-- Работа с линейни структури от данни
-- Основи на уеб разработката
+- Handling the standard functionality of the programming language
+- Build simple web pages with HTML and CSS
+- Understanding the interrelationship between different IT concepts
+- Analysis of complex problems and reduction to computer-executable steps
+- Working with linear data structures
+- Basics of web development
 
-## Теми
+## Themes
 
 - Basic Syntax, Conditional Statements and Loops
 - Basic HTML
@@ -143,7 +143,7 @@
 - Unit Testing
 - Basic Web Project
 
-## Полезни линкове
+## Useful links
 
 - SoftUni 
 <a href="https://softuni.bg">`https://softuni.bg`</a>
